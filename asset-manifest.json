@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-app-2/static/css/main.7da98868.css",
+    "main.js": "/react-app-2/static/js/main.8630b270.js",
+    "static/media/background2.webp": "/react-app-2/static/media/background2.bc47e00a84099f0f29d9.webp",
+    "static/media/background1.webp": "/react-app-2/static/media/background1.791e324954f15f5e2dbc.webp",
+    "static/media/background3.webp": "/react-app-2/static/media/background3.c307816346b5742f155f.webp",
+    "static/media/blog3.webp": "/react-app-2/static/media/blog3.cc09f95ea0bace506b2d.webp",
+    "static/media/work1.webp": "/react-app-2/static/media/work1.0d380a071d57c7e6aab2.webp",
+    "static/media/blog1.webp": "/react-app-2/static/media/blog1.4f74437f73977fd4a831.webp",
+    "static/media/work6.webp": "/react-app-2/static/media/work6.c5b3d781a9a13b011859.webp",
+    "static/media/background4.webp": "/react-app-2/static/media/background4.9b2d3cbd7a94ee7c999e.webp",
+    "static/media/blog2.webp": "/react-app-2/static/media/blog2.d2d4214e69264896e724.webp",
+    "static/media/work3.webp": "/react-app-2/static/media/work3.60d36a5bf7be6ef274d3.webp",
+    "static/media/work2.webp": "/react-app-2/static/media/work2.220ad85a1d93010789e4.webp",
+    "index.html": "/react-app-2/index.html",
+    "main.7da98868.css.map": "/react-app-2/static/css/main.7da98868.css.map",
+    "main.8630b270.js.map": "/react-app-2/static/js/main.8630b270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da98868.css",
+    "static/js/main.8630b270.js"
+  ]
+}
